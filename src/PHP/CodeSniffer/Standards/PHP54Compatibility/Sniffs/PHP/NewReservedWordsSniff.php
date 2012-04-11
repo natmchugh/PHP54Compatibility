@@ -6,8 +6,8 @@
  *
  * @category  PHP
  * @package   PHP54Compatibility
- * @author    Sebastian Marek <proofek@gmail.com>
- * @copyright 2012 Sebastian Marek
+ * @author    Nathaniel McHugh <nat@fishtrap.co.uk>
+ * @copyright 2012 Nathaniel McHugh
  * @license   http://www.opensource.org/licenses/bsd-license.php BSD License
  * @link      https://github.com/proofek/PHP54Compatibility
  */
@@ -19,8 +19,8 @@
  *
  * @category  PHP
  * @package   PHP54Compatibility
- * @author    LB Denker <lb@elblinkin.info>
- * @copyright 2012 LB Denker
+ * @author    Nathaniel McHugh <nat@fishtrap.co.uk>
+ * @copyright 2012 Nathaniel McHugh
  * @license   http://www.opensource.org/licenses/bsd-license.php BSD License
  * @link      https://github.com/proofek/PHP54Compatibility
  */
@@ -28,7 +28,7 @@ class PHP54Compatibility_Sniffs_PHP_NewReservedWordsSniff implements PHP_CodeSni
 {
 
     /**
-     * A list of forbidden parameter names.
+     * A list of new reserved words.
      *
      * @var array(string)
      */
